@@ -1,8 +1,8 @@
 #  an=n^2
 print("Serie geometrica cuadrado de un  numero")
 for i in range(1,10):   
-	print(i**2, end=" ")
-print("")
+	print(i**2)  #end=" "
+
 # recorrer lista de numeros
 print("Cuadrados del 5 al 0 y del 1 al 5")
 for i in range(5,0,-1):  
